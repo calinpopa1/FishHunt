@@ -1,13 +1,13 @@
 # FishHunt (ENG)
 
-<i>Game written in Java that uses the javaFX library.</i>
+<i>Game written in Java that uses the JavaFX library.</i>
 
 You play as a shark hunting fish.
 
-You cannot allow too many fishes to pass. If you let 
-3 fishes pass you lose the game.
+You cannot allow too many fish to pass. 
+If you let three fish pass you lose the game.
 
-The game is controlled with the mouse and continues until you let 3 fishes pass.
+The game is controlled with the mouse and continues until you let three fish pass.
 
 # FishHunt (FR)
 
