@@ -9,6 +9,8 @@ If you let three fish pass you lose the game.
 
 The game is controlled with the mouse and continues until you let three fish pass.
 
+To play the game run the code in an integrated development environment (IDE).
+
 # FishHunt (FR)
 
 <i>Jeu écrit en Java qui utilise la librairie JavaFX.</i>
@@ -20,3 +22,5 @@ Au bout de trois poissons ratés, la partie est perdue.
 
 Le jeu se contrôle à la souris et continue à l'infini, ou jusqu'à ce que 
 trois poissons aient été ratés (selon lequel arrive en premier).
+
+Pour jouer au jeu faites rouler le code dans Un environnement de développement intégré (EDI).
